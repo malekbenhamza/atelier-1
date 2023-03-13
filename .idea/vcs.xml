@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/symfony/console" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/symfony/deprecation-contracts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/symfony/polyfill-ctype" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/symfony/polyfill-intl-grapheme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/symfony/polyfill-intl-normalizer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/symfony/polyfill-mbstring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/symfony/service-contracts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/symfony/string" vcs="Git" />
+  </component>
+</project>
